@@ -8,6 +8,8 @@
 
 #import <UIKit/UIKit.h>
 
+#define   BASE_URL   @"http://xxxxxxxxxxxxx.cn/api/ios/chirld/Add"
+
 @interface ViewController : UIViewController
 
 
